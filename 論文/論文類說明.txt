@@ -1,0 +1,3 @@
+比較主要的是Kmeans_for_sound_analysis.ipynb與LDA_for_2094song.ipynb兩個檔案
+
+第一個使用100首歌做實驗，第二個擴充為2094首，大多數的轉換與運算均在server上進行。
